@@ -1,0 +1,1 @@
+input line is incorrect at line 1 (1 2 6), expected format : \s*[0-9]+\s+[0-9]+\s+[A-Z]\s*
